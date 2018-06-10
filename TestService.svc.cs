@@ -18,7 +18,7 @@ namespace TestWCFService
 
         public string Welcome(string name)
         {
-            return "Welcome to the first WCF Web Service Application " + name;
+            return "Welcome to the test WCF Web Service Application, " + name;
         }
     }
 }
